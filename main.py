@@ -456,7 +456,7 @@ class GreedyBagRace:
         score_rect = score_surf.get_rect(midbottom=(self.screen_width//2, self.screen_height - 50))
         
         # Small winner indicator above the score
-        winner_text = f"🏆 {winner_name}" if winner_name != "Tie" else "🏆 Tie! 🏆"
+        winner_text = f"Winner: {winner_name}" if winner_name != "Tie" else "🏆 Tie! 🏆"
         winner_surf = font.render(winner_text, True, HIGHLIGHT_COLOR)
         winner_rect = winner_surf.get_rect(midbottom=(self.screen_width//2, score_rect.top - 5))
         
