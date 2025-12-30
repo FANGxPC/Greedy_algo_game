@@ -3,18 +3,18 @@
 Greedy Bag Race is a **turn-based strategy game** based on **Greedy Algorithms**, where players race to pick items into a limited-capacity bag.  
 The goal is simple: **collect more items than your opponent before the bag is full or items run out**.
 
-The game supports **Single Player (vs AI)** and **Local Multiplayer**, with multiple AI difficulty levels demonstrating different greedy strategies.
+The game supports **Single Player (vs Computer)** and **Local Multiplayer**, with multiple AI difficulty levels demonstrating different greedy strategies.
 
 ---
 
 ## 🚀 Features
 
-- 🧠 **Greedy Algorithm Based AI**
+- 🧠 **Greedy Algorithm**
   - Easy: Random item selection
   - Medium: Maximum value selection
   - Hard: Maximum value-to-weight ratio
 - 👥 **Game Modes**
-  - Single Player vs AI
+  - Single Player vs Computer
   - Local Multiplayer (2 Players)
 - 🔄 **Turn-Based Gameplay**
 - 🎨 **Graphical User Interface (GUI)**
