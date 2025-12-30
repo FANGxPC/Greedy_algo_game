@@ -1,9 +1,3 @@
-Here you go, Fang ✅
-A **ready-made, copy-paste GitHub README.md** for your project.
-
----
-
-```markdown
 # 🎮 Greedy Bag Race
 
 Greedy Bag Race is a **turn-based strategy game** based on **Greedy Algorithms**, where players race to pick items into a limited-capacity bag.  
