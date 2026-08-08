@@ -7,7 +7,7 @@ The game supports **Single Player (vs Computer)** and **Local Multiplayer**, wit
 
 ---
 
-## 🚀 Features
+## Features
 
 - 🧠 **Greedy Algorithm**
   - Easy: Random item selection
