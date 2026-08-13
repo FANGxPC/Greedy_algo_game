@@ -49,7 +49,7 @@ This makes the game a practical demonstration of **greedy decision-making**.
 
 ---
 
-## 🗂️ Project Structure
+## 📁 Project Structure
 
 ```
 
