@@ -37,7 +37,7 @@ The game supports **Single Player (vs Computer)** and **Local Multiplayer**, wit
 
 ---
 
-## 🧩 AI Strategy Logic
+## 🧠 AI Strategy Logic
 
 | Difficulty | Strategy Used |
 |----------|---------------|
