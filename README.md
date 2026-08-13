@@ -120,7 +120,7 @@ greedy_bag_race/
 
 ---
 
-## 👥 Team Members
+## 🤝 Team Members
 
 * **Person 1** – GUI, animations, sounds
 * **Person 2** – Backend logic, AI, game engine
