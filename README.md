@@ -136,7 +136,7 @@ greedy_bag_race/
 
 ---
 
-## 📜 License
+## 📄 License
 
 This project is for **educational purposes**.
 Feel free to fork and modify.
