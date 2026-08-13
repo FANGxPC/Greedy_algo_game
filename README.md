@@ -7,7 +7,7 @@ The game supports **Single Player (vs Computer)** and **Local Multiplayer**, wit
 
 ---
 
-## Features
+## ✨ Features
 
 - 🧠 **Greedy Algorithm**
   - Easy: Random item selection
@@ -37,7 +37,7 @@ The game supports **Single Player (vs Computer)** and **Local Multiplayer**, wit
 
 ---
 
-## 🧩 AI Strategy Logic
+## 🧠 AI Strategy Logic
 
 | Difficulty | Strategy Used |
 |----------|---------------|
@@ -49,7 +49,7 @@ This makes the game a practical demonstration of **greedy decision-making**.
 
 ---
 
-## 🗂️ Project Structure
+## 📁 Project Structure
 
 ```
 
@@ -74,7 +74,7 @@ greedy_bag_race/
 
 ---
 
-## ⚙️ Technologies Used
+## 🛠️ Technologies Used
 
 - **Python**
 - **Tkinter / PyGame** (for GUI & sounds)
@@ -120,14 +120,14 @@ greedy_bag_race/
 
 ---
 
-## 👥 Team Members
+## 🤝 Team Members
 
 * **Person 1** – GUI, animations, sounds
 * **Person 2** – Backend logic, AI, game engine
 
 ---
 
-## 📌 Future Improvements
+## 🚀 Future Improvements
 
 * Online multiplayer
 * Leaderboard system
@@ -136,7 +136,7 @@ greedy_bag_race/
 
 ---
 
-## 📜 License
+## 📄 License
 
 This project is for **educational purposes**.
 Feel free to fork and modify.
