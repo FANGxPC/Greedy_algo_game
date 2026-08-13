@@ -127,7 +127,7 @@ greedy_bag_race/
 
 ---
 
-## 📌 Future Improvements
+## 🚀 Future Improvements
 
 * Online multiplayer
 * Leaderboard system
