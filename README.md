@@ -74,7 +74,7 @@ greedy_bag_race/
 
 ---
 
-## ⚙️ Technologies Used
+## 🛠️ Technologies Used
 
 - **Python**
 - **Tkinter / PyGame** (for GUI & sounds)
